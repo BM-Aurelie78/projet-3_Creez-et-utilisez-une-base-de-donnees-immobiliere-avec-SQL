@@ -15,17 +15,24 @@ Les données dont nous aurons besoin pour ce projet proviennnent:
 - SQL pour la conception et l'utilisation de la base de données
 
 ### IV. Modifier le dictionnaire des données
-Utilisation des fichiers Excel (Valeurs foncières, données communes et référentiel géographique français) fournis dans un fichiers ZIP.
-Renseigner le code, la signification, le type, la longueur, la nature, les règle de gestion et la règle de calcul de chaque données.
-Supprimer les données superflues et ne laisser que ceux vraiment importantes pour la création de la base de données.
+- Utilisation des fichiers Excel (Valeurs foncières, données communes et référentiel géographique français) fournis dans un fichiers ZIP.
+- Renseigner le code, la signification, le type, la longueur, la nature, les règle de gestion et la règle de calcul de chaque données.
+- Supprimer les données superflues et ne laisser que ceux vraiment importantes pour la création de la base de données.
 
 ### V. Nettoyage et préparation des données
 Changer les en-tête des des colonnes, changer le type des données des variables si besoin.
 Préparer les données pour remplir les tables correspondant aux schéma relationnel
 
 ### VI. Modifier le schéma relationnel
+- Modifier les tables
+- Définir les clés primaires,étrangères et les contraintes entre les tables.
 
-### . Analyse exploratoire des données
+### VII. Création de la base de données
+- La base de données est donc composée de plusieurs tables reliées entre elles.
+- Implémenter les données
+
+
+### . Requêtes
 
 ### . Résultats/constats
 
