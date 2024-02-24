@@ -53,5 +53,6 @@ départements 6, 13, 33, 59 et 69.
 pour les communes qui dépassent les 10 000 habitants.
 
 ### . Résultats/constats
+Dans les régions à forte activité immobilière ou à prix élevés, une agence devrait concentrer ses efforts sur la prospection, adapter sa stratégie marketing, renforcer sa présence locale et ajuster ses tarifs pour refléter la valeur ajoutée de ses services.
 
 
