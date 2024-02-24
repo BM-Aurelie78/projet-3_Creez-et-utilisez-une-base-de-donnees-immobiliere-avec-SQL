@@ -11,7 +11,9 @@ Les données dont nous aurons besoin pour ce projet proviennnent:
 - des données de data.gouv sur les régions, avec le référentiel géographique français, communes, unités urbaines, aires urbaines, départements, académies, régions.
 
 ### III. Outil(s) utilisé(s)
-
+- Excel(Power Query)pour le nettoyage des données
+- SQL pour la conception et l'utilisation de la base de données
+  
 ### IV. Nettoyage et préparation des données
 
 ### V. Analyse exploratoire des données
