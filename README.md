@@ -11,13 +11,17 @@ Les données dont nous aurons besoin pour ce projet proviennnent:
 - des données de data.gouv sur les régions, avec le référentiel géographique français, communes, unités urbaines, aires urbaines, départements, académies, régions.
 
 ### III. Outil(s) utilisé(s)
-- Excel(Power Query)pour le nettoyage des données
+- Excel(Power Query) pour le nettoyage des données
 - SQL pour la conception et l'utilisation de la base de données
-  
-### IV. Nettoyage et préparation des données
 
-### V. Analyse exploratoire des données
+### IV. Modifier le dictionnaire des données
 
-### VI. Résultats/constats
+### . Nettoyage et préparation des données
+Changer les en-tête des des colonnes, changer le type des données des variables si besoin.
+Préparer les données pour remplir les tables correspondant aux schéma relationnel
+
+### . Analyse exploratoire des données
+
+### . Résultats/constats
 
 
