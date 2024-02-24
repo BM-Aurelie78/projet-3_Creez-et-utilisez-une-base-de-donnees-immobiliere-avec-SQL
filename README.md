@@ -34,8 +34,7 @@ Préparer les données pour remplir les tables correspondant aux schéma relatio
 
 ### . Requêtes
 - Nombre total d’appartements vendus au 1er semestre 2020.
-- Le nombre de ventes d’appartement par région pour le 1er semestre
-2020.
+- Le nombre de ventes d’appartement par région pour le 1er semestre 2020.
 - Proportion des ventes d’appartements par le nombre de pièces.
 - Liste des 10 départements où le prix du mètre carré est le plus élevé.
 - Prix moyen du mètre carré d’une maison en Île-de-France.
