@@ -13,7 +13,7 @@ Les données dont nous aurons besoin pour ce projet proviennnent:
 
 ### III. Outil(s) utilisé(s)
 - Excel et/ou Power Query pour le nettoyage des données;
-- SQL pour la conception et l'utilisation de la base de données.
+- MySQL ou SQLiteStudio pour la conception et l'utilisation de la base de données.
 
 ### IV. Modifier le dictionnaire des données
 - Utilisation des fichiers Excel (Valeurs foncières, données communes et référentiel géographique français) fournis dans un fichiers ZIP;
